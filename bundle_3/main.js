@@ -93,6 +93,6 @@ console.log(otherCars);
 alcune auto hanno come tipo 'benzina' e altre 'Benzina'.
   -stesso errore nel creare l'array dieselCars
   -stesso errore nel creare l'array otherCars
-  -nel creare l'array otherCars se non viene le macchine a diesel e benzina va sostituito && a posto di ||
-  -conviene convertire prima entrambi i valori da confrontare in uppercase
+  -nel creare l'array otherCars se si vogliono tutte le macchine tranne quelle a diesel e benzina va sostituito && al posto di ||
+  -conviene convertire prima entrambi i valori da confrontare in lowercase per confrontare auto.type
   */
