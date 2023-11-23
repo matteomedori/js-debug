@@ -21,7 +21,7 @@ for (let i = 0; i > 5; i++) {
 
 // ESERCIZIO 2
 function addIfEven(num) {
-  if (num % 2 === 0) {
+  if (num % 2 = 0) {
     return num + 5;
   }
   return num;
